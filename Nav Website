@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nav - The Rapper</title>
+    <style>
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nav - The Rapper</h1>
+</header>
+
+<section>
+    <p>Nav is a Canadian rapper who took the face of the rap world in 2015.</p>
+
+    <p>Fun Factcs:</p>
+    <ul>
+        <li>Real Name: Navraj Singh Goraya</li>
+        <li>Birthdate: 11/3/89</li>
+        <li>Origin: Toronto, Ontario, Canada</li>
+        <li>Genres: Hip hop</li>
+    </ul>
+
+    <p>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nav - The Rapper</title>
+    <style>
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>NAV & Metro Boomin feat Offset & Playboi Carti - Minute (Official Audio)
+</h1>
+</header>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed YouTube Video</title>
+</head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=K5b0J1MNX20" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Photo</title>
+</head>
+<body>
+<img src="https://nationaltoday.com/wp-content/uploads/2022/11/456841306-min-1200x834.jpg" alt="Your Photo">
+
+</body>
+</html>
